@@ -1,0 +1,5 @@
+
+alias chrome="/Applications/Google\\ \\Chrome.app/Contents/MacOS/Google\\ \\Chrome"
+alias M1="chrome --pinned-tab-count=4 http://m000001.rci.rogers.ca:7879/ http://m000001.rci.rogers.ca:7880/ http://m000001.rci.rogers.ca:8080/ http://m000001.rci.rogers.ca:8081/ "
+OR
+open -a /Applications/Google\ Chrome.app http://m000001.rci.rogers.ca:7879/ http://m000001.rci.rogers.ca:7880/ http://m000001.rci.rogers.ca:8080/ http://m000001.rci.rogers.ca:8081/
